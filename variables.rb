@@ -1,0 +1,8 @@
+Strings: 
+
+Integers: 
+
+Floats: 
+
+Booleans: 
+
