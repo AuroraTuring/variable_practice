@@ -2,6 +2,7 @@
 name = "Aurora" 
 favorite_color = "Rainbow"
 affirmation = "Believe you can succeed."
+name = "Norah"
 
 ## Integers: 
 age = 31 
@@ -20,7 +21,7 @@ donate_blood = 18
 
 
 #Puts Statements: 
-- puts 
-- puts 
-- puts 
-- puts 
+puts name
+puts "I turn" + age + "tomorrow!" 
+puts name, affirmation. 
+puts "Hello," + name + "do you like" favorite_color?
