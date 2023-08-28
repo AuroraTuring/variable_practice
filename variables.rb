@@ -23,5 +23,5 @@ donate_blood = 18
 #Puts Statements: 
 puts name
 puts "I turn #{age} tomorrow!" 
-puts "#{name}," + affirmation
+puts "#{name}, " + affirmation
 puts "Hello #{name}, do you like #{favorite_color}s?"
