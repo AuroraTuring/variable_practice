@@ -1,8 +1,13 @@
-Strings: 
+## Strings: 
+affirmation = "You can do this!" 
+affirmation = "Trust in yourself."
+affirmation = "Believe you can succeed."
 
-Integers: 
+## Integers: 
 
-Floats: 
 
-Booleans: 
+## Floats: 
+
+
+## Booleans: 
 
