@@ -24,4 +24,4 @@ donate_blood = 18
 puts name
 puts "I turn" + age + "tomorrow!" 
 puts name, affirmation. 
-puts "Hello," + name + "do you like" favorite_color?
+puts "Hello," + name + "do you like" + favorite_color?
