@@ -9,7 +9,9 @@ lucky number = 8
 CO lucky number = 420
 
 ## Floats: 
-
+height = 5.5 
+circumfrence = 26.5 
+length = 3.75
 
 ## Booleans: 
 
