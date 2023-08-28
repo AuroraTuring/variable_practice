@@ -1,6 +1,6 @@
 ## Strings: 
-affirmation = "You can do this!" 
-affirmation = "Trust in yourself."
+name = "Aurora" 
+favorite_color = "Rainbow"
 affirmation = "Believe you can succeed."
 
 ## Integers: 
@@ -20,7 +20,7 @@ donate_blood = 18
 
 
 #Puts Statements: 
-- 
-- 
-- 
-- 
+- puts 
+- puts 
+- puts 
+- puts 
